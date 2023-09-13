@@ -1,6 +1,16 @@
 [
-    {
-        "title":"Test Title",
-        "text":"Test text"
+  null,
+  {
+    "title": "Wednesday's To-Do List",
+    "text": "Make sure all hw assignments are submitted\nOrder groceries for delivery\nMeal prep for the rest of the week\nGo to gym ",
+    "id": {
+      "title": "Test Title",
+      "text": "Test text"
     }
+  },
+  {
+    "title": "Team Project To-Do List",
+    "text": "Work on connecting front end code for group project and connect to back end code",
+    "id": null
+  }
 ]
